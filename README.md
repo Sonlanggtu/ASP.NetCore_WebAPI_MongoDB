@@ -4,7 +4,7 @@ Create a web API with ASP.NET Core and MongoDB Basic
 
 ################# Step by Step ########################
 
-B1: setup MongoDB
+B1: Setup MongoDB
 
 B2: open cmd 
      mongod --dbpath <data_directory_path> 
@@ -24,8 +24,7 @@ B5: http://localhost:<port>/api/books
 
 ################# Result ##########################
 	
-https://user-images.githubusercontent.com/40542726/61180316-bcf70800-a63e-11e9-8771-0a41909dc2b4.PNG
-
+![Capture](https://user-images.githubusercontent.com/40542726/61180346-20813580-a63f-11e9-94f9-4f7a63398a6e.PNG)
 
 ######################################################### 
 Resource : https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-2.2&tabs=visual-studio-mac 
