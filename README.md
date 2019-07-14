@@ -24,17 +24,7 @@ B5: http://localhost:<port>/api/books
 
 ################# Result ##########################
 	
-id	"5d2ab93dd098815a5b8f6112"
-bookName	"Design Patterns"
-price	54.93
-category	"Computers"
-author	"Ralph Johnson"
-	
-id	"5d2ab93dd098815a5b8f6113"
-bookName	"Clean Code"
-price	43.15
-category	"Computers"
-author	"Robert C. Martin"
+https://user-images.githubusercontent.com/40542726/61180316-bcf70800-a63e-11e9-8771-0a41909dc2b4.PNG
 
 
 ######################################################### 
